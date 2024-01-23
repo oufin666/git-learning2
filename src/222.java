@@ -1,5 +1,5 @@
 package src;
 
 public class 222 {
-    System.out.println("version4");
+    System.out.println("version5");
 }
